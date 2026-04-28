@@ -12,7 +12,7 @@ SoftCost представляет собой веб-приложение, пре
 ## Технологический стек
 - Фронтенд-часть: React 18, TypeScript.
 - Стилизация: Tailwind CSS.
-- Иконки: Lucide React. 
+- Иконки: Lucide React.  
 - Сборка проекта: Vite.
 - Интеграция с БД: Supabase.
 
